@@ -5,7 +5,7 @@
 [![Microcontroller](https://img.shields.io/badge/MCU-8051%20Family-blue.svg)](#)
 [![Display](https://img.shields.io/badge/Display-6--Digit%207--Segment-red.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Breadboard%20Prototyping-orange.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Hardware%20Verified-brightgreen.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Hardwarea%20Verified-brightgreen.svg)](#)
 
 A complete hardware realization of a 24-Hour Digital Clock built with an **8051 Microcontroller**, display drivers, and 7-segment LED modules on interconnected breadboards.
 
