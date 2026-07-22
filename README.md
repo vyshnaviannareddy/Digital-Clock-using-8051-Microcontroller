@@ -11,7 +11,7 @@ A hardware-based digital clock project designed and implemented using an 8051 mi
 
 <br />
 
-![Digital Clock Hardware](digital-clock.jpeg)
+![Digital Clock Hardware](digital%20clock%20ss/digital-clock.jpeg)
 
 </div>
 
