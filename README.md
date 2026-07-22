@@ -12,7 +12,7 @@ A complete hardware realization of a 24-Hour Digital Clock built with an **8051 
 
 <br />
 
-<img src="./digital%20clock%20ss/digital%20clock.jpeg" alt="Digital Clock Powered On" width="650" />
+<img src="./digital clock ss/digital clock.jpeg" alt="Digital Clock Powered On" width="650" />
 
 </div>
 
