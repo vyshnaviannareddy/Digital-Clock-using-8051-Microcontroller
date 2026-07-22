@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ⏰ Digital Clock using 8051 Microcontroller
@@ -12,7 +11,7 @@ A complete hardware realization of a 24-Hour Digital Clock built with an **8051 
 
 <br />
 
-<img src="digital%20clock%20ss/digital%20clock.png" alt="Digital Clock Powered On" width="650px" />
+<img src="digital%20clock%20ss/digital%20clock.jpeg" alt="Digital Clock Powered On" width="650px" />
 
 </div>
 
@@ -22,7 +21,7 @@ A complete hardware realization of a 24-Hour Digital Clock built with an **8051 
 
 | Unpowered Circuit Assembly | Active Display Output |
 | :---: | :---: |
-| <img src="digital%20clock%20ss/digital%20clock1.jpeg" width="380px" alt="Unpowered Breadboard Setup"/> | <img src="digital%20clock%20ss/digital%20clock.png" width="380px" alt="Powered Display Output"/> |
+| <img src="digital%20clock%20ss/digital%20clock1.jpeg" width="380px" alt="Unpowered Breadboard Setup"/> | <img src="digital%20clock%20ss/digital%20clock.jpeg" width="380px" alt="Powered Display Output"/> |
 
 > 📹 **Execution Demo / Video File:**  
 > [Click here to view/download `dital clock2.jpeg`](digital%20clock%20ss/dital%20clock2.jpeg)
